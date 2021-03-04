@@ -1,16 +1,16 @@
 package "ISD" as isd {
   package "DMG Team" as dmg {
-    actor "Amandeep" as aman
-    actor "Thomas" as thomas
-    actor "Mannny" as manny
-    actor "Florence" as florence
-    actor "Julie" as julie
-    actor "Min" as min
-    actor "Angelina" as angelina
-    actor "Curtis" as curtis
+    actor "Amandeep Singh" as amandeeps
+    actor "Thomas Buno" as thomasb
+    actor "Manpreet Singh (Manny)" as manpreets
+    actor "Florence Peng" as florencep
+    actor "Julie Costa" as juliec
+    actor "Min Chen" as minc
+    actor "Angelina Gerasimov" as angelinag
+    actor "Curtis Splan" as curtiss
   }
   package "HAB" as hab {
-    actor "Whitney Carpenter" as whitney
+    actor "Whitney Carpenter" as whitneyc
     actor "Mary Holiday-Hanson" as maryhh
   }
 
@@ -19,8 +19,8 @@ package "ISD" as isd {
     actor "Steven Fong" as stevenf
   }
   actor "Michael Valle" as michaelv
-  actor "Manraj" as manraj
-  actor "James" as james
-  actor "Starla Ledbetter" as starla
-  actor "Ryan Morris" as ryan  
+  actor "Manraj Singh" as manrajs
+  actor "James Petersen" as jamesp
+  actor "Starla Ledbetter" as starlal
+  actor "Ryan Morris" as ryanm
 }
