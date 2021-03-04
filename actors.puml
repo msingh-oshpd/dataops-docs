@@ -10,7 +10,7 @@ package "ISD" as isd {
     actor "Curtis" as curtis
   }
   package "HAB" as hab {
-    actor "Whitney" as whitney
+    actor "Whitney Carpenter" as whitney
     actor "Mary Holiday-Hanson" as maryhh
   }
 
