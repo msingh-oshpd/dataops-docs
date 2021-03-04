@@ -1,0 +1,26 @@
+package "ISD" as isd {
+  package "DMG Team" as dmg {
+    actor "Amandeep" as aman
+    actor "Thomas" as thomas
+    actor "Mannny" as manny
+    actor "Florence" as florence
+    actor "Julie" as julie
+    actor "Min" as min
+    actor "Angelina" as angelina
+    actor "Curtis" as curtis
+  }
+  package "HAB" as hab {
+    actor "Whitney" as whitney
+    actor "Mary Holiday-Hanson" as maryhh
+  }
+
+  package "ISO" as iso {
+    actor "David Ferrell" as davidf
+    actor "Steven Fong" as stevenf
+  }
+  actor "Michael Valle" as michaelv
+  actor "Manraj" as manraj
+  actor "James" as james
+  actor "Starla Ledbetter" as starla
+  actor "Ryan Morris" as ryan  
+}
