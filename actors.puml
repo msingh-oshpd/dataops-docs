@@ -1,0 +1,30 @@
+
+
+actor "Amandeep Singh" as amandeeps
+actor "Manpreet Singh (Manny)" as manpreets
+actor "Florence Peng" as florencep
+actor "Julie Costa" as juliec
+actor "Min Chen" as minc
+actor "Angelina Gerasimov" as angelinag
+actor "Curtis Splan\nSupervisor" as curtiss
+actor "Thomas Buno\nSupervisor" as thomasb
+actor "Starla Ledbetter\nChief Data Officer" as starlal
+
+
+actor "Whitney Carpenter\nResearch Data Specialist" as whitneyc
+actor "Mary Holiday-Hanson\nResearch Scientist Supervisor" as maryhh
+
+actor "Chris Krawczyk\nChief Analytics Officer" as chrisk
+
+
+actor "Steven Sottana\nCheif Strategy Officer" as stevens
+
+
+actor "David Ferrell\nInformation Security Officer" as davidf
+
+
+actor "Manraj Singh\nSolutions Architect" as manrajs
+actor "James Petersen\nTechnical Architect" as jamesp
+actor "Ryan Morris\nChief Technology Officer" as ryanm
+
+actor "Michael Valle\nChief Information Officer" as michaelv
