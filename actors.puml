@@ -1,5 +1,5 @@
 package "ISD" as isd {
-  package "DMG Team" as dmg {
+  package "Data Management Group" as dmg {
     actor "Amandeep Singh" as amandeeps
     actor "Thomas Buno" as thomasb
     actor "Manpreet Singh (Manny)" as manpreets
@@ -7,20 +7,19 @@ package "ISD" as isd {
     actor "Julie Costa" as juliec
     actor "Min Chen" as minc
     actor "Angelina Gerasimov" as angelinag
-    actor "Curtis Splan" as curtiss
+    actor "Curtis Splan\Supervisor" as curtiss
   }
-  package "HAB" as hab {
-    actor "Whitney Carpenter" as whitneyc
-    actor "Mary Holiday-Hanson" as maryhh
+  package "Healthcare Analytics Branch" as hab {
+    actor "Whitney Carpenter\nResearch Data Specialist" as whitneyc
+    actor "Mary Holiday-Hanson\nResearch Scientist Supervisor" as maryhh
   }
 
-  package "ISO" as iso {
-    actor "David Ferrell" as davidf
-    actor "Steven Fong" as stevenf
-  }
-  actor "Michael Valle" as michaelv
-  actor "Manraj Singh" as manrajs
-  actor "James Petersen" as jamesp
-  actor "Starla Ledbetter" as starlal
-  actor "Ryan Morris" as ryanm
+  actor "Chris Krawczyk\nChief Analytics Officer" as chrisk
+  actor "Steven Sottana\nCheif Strategy Officer" as stevens
+  actor "David Ferrell\nInformation Security Officer" as davidf
+  actor "Michael Valle\nChief Information Officer" as michaelv
+  actor "Manraj Singh\nSolutions Architect" as manrajs
+  actor "James Petersen\nTechnical Architect" as jamesp
+  actor "Starla Ledbetter\nChief Data Officer" as starlal
+  actor "Ryan Morris\nChief Technology Officer" as ryanm
 }
