@@ -1,5 +1,5 @@
-package "ISD" as isd {
-  package "Enterprise Data Operations Branch" as edob {
+
+package "Enterprise Data Operations Branch" as edob {
     package "Data Management Group" as dmg {
         actor "Amandeep Singh" as amandeeps
         actor "Manpreet Singh (Manny)" as manpreets
@@ -11,28 +11,27 @@ package "ISD" as isd {
         actor "Thomas Buno\nSupervisor" as thomasb
     }
     actor "Starla Ledbetter\nChief Data Officer" as starlal
-  }
-  package "Healthcare Analytics Branch" as hab {
+}
+package "Healthcare Analytics Branch" as hab {
     package "Administrative Data Group" as adg {
         actor "Whitney Carpenter\nResearch Data Specialist" as whitneyc
         actor "Mary Holiday-Hanson\nResearch Scientist Supervisor" as maryhh
     }
     actor "Chris Krawczyk\nChief Analytics Officer" as chrisk
-  }
+}
 
-  package "Planning & Management Branch" as pmb {
+package "Planning & Management Branch" as pmb {
     actor "Steven Sottana\nCheif Strategy Officer" as stevens
-  }
-  
-  package "Information Security Office" as iso {
+}
+
+package "Information Security Office" as iso {
     actor "David Ferrell\nInformation Security Officer" as davidf
-  }
-  
-  package "IT Operations Branch" as itops {
+}
+
+package "IT Operations Branch" as itops {
     actor "Manraj Singh\nSolutions Architect" as manrajs
     actor "James Petersen\nTechnical Architect" as jamesp
     actor "Ryan Morris\nChief Technology Officer" as ryanm
-  }
-  actor "Michael Valle\nChief Information Officer" as michaelv
-  
 }
+
+actor "Michael Valle\nChief Information Officer" as michaelv
